@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - NPC
+  - NpcEnemy
+  - Projectil
+  - PlayerTopDown
+  - Obstacle
+  - Checkpoint
+  - SpeedBooster
+  - Water
+  - Ramp
   layers:
   - Default
   - TransparentFX
@@ -13,16 +22,16 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Everhood/Front
+  - Sprites
+  - PostProcess
+  - Background
+  - DeflectiveProjectil
+  - Test
+  - Particle
+  - Npc
+  - Obstacle
+  - SmokeFluid
   - 
   - 
   - 
@@ -38,6 +47,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 1770490633
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2529625967
+    locked: 0
+  - name: UI
+    uniqueID: 901872593
     locked: 0
