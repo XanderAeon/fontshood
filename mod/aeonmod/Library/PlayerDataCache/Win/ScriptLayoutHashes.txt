@@ -1,0 +1,19 @@
+Win
+PlayerPath?
+C:/Users/Administrator/AppData/LocalLow/DefaultCompany/aeonmod/UMod.BuildEngine_TempWorking/amongusinreallife-sceneassets.bin
+SceneListBegin?
+Assets/aeonmod/mapping.unity
+SceneListEnd?
+f29ad913f1b74f251810da5c88dcc9d5 UMod-Shared.dll:UMod.Shared.Linker.LinkAnchor
+97fdbb789c6bc0aeb5dd2790acf6910d UMod-Shared.dll:UMod.Shared.Linker.LinkArray
+e203e07e2185153e535648e4e8749614 UMod-Shared.dll:UMod.Shared.Linker.LinkBehaviour
+e5d168c0da0d2d6a9ad75d24b7383fea UMod-Shared.dll:UMod.Shared.Linker.LinkBehaviourCache
+c5384c88c6267b3b9c1e07501ac4d782 UMod-Shared.dll:UMod.Shared.Linker.LinkDependencies
+710b8d28ab9f9725bd5a59b3074920c2 UMod-Shared.dll:UMod.Shared.Linker.LinkInstance
+d4b6bee758d99be5962afe2890633caf UMod-Shared.dll:UMod.Shared.ModObjectIdentity
+4efee2d673d3862b34126c7ad11bd6b5 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveBool
+cdd5cc8dad70424368022c322240b90d UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveDecimal
+1a944b29a83589580e765179949bb8b6 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveEnum
+1fd96e36837af1c709d6bb38b1f0447e UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveInt
+0908e7c139a217bc81b3d26f9ae551cd UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_PrimitiveString
+bb49314a23dce365992e001045f1ce88 UMod-Shared.dll:UMod.Shared.Linker.TypeHandler.TypeHandler_UnityObject

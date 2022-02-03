@@ -22,6 +22,8 @@
 }
 [Events]
 {
+  192 = E "section hajimeru"
+  1200 = E "section end da yo"
 }
 [ExpertSingle]
 {

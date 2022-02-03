@@ -1,0 +1,32 @@
+vTAISHI
+- code
+ = ???
+- graffix
+ = player
+  ≡ idle
+  ≡ move left
+  ≡ move right
+  ≡ jump
+  ≡ jump left
+  ≡ jump right
+  ≡ grab
+  ≡ die
+ = other
+  ≡ idle
+  ≡ talking
+  ≡ running
+  ≡ hurting
+  ≡ helping
+  ≡ happy
+ = notes
+  ≡ wave note
+  ≡ tall wave note
+  ≡ rock note
+ = bg
+  ≡ cave
+  ≡ storm cave
+  ≡ clouds
+  ≡ storm clouds
+  ≡ waters
+- map
+ = the map
